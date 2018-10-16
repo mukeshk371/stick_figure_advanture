@@ -1,0 +1,28 @@
+* {
+	margin: 0;
+	color: #154979;
+	font-family: 'Quicksand', sans-serif;
+}
+
+img {
+	width: 95%;
+	height: 550px;
+	border-radius: 25px;
+	margin-top: 10px;
+}
+
+div {
+	text-align: center;
+}
+
+
+input {
+	margin: 9px;
+	padding: 5px 15px;
+	background-color: transparent;
+	font-size: 20px;
+	font-weight: bold;
+	border: 2px solid #154979;
+	border-radius: 20px;
+	cursor: pointer;
+}
